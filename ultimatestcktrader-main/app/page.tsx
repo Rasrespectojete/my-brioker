@@ -317,7 +317,7 @@ const Header = () => {
         >
           <img
             src="https://i.ibb.co/pBSBnW9y/Whats-App-Image-2025-10-10-at-8-45-37-AM-1-removebg-preview-1.png"
-            alt="UltimateStckTrader Logo"
+            alt="Rouna Broker Platform Logo"
             className="h-12 w-12 md:h-16 md:w-16 lg:h-20 lg:w-20 object-contain"
           />
         </Link>
@@ -376,7 +376,7 @@ const Header = () => {
             <li className="w-full md:w-auto">
               {/* TODO: Add get started URL here */}
               <a
-                href="https://ultimatestcktrader.online"
+                href="https://rounabroker.com"
                 className="bg-gradient-to-r from-orange-500 to-yellow-500 text-white font-semibold py-2 px-6 rounded-full block text-center hover:shadow-lg transition-all"
               >
                 Get Started
@@ -428,13 +428,13 @@ const Hero = () => (
 
       <div className="mt-8 flex flex-col sm:flex-row justify-center items-center gap-4 px-4">
         <a
-          href="https://ultimatestcktrader.online"
+          href="https://rounabroker.com"
           className="bg-gradient-to-r from-orange-500 to-yellow-500 text-white font-bold py-3 px-8 rounded-full w-full sm:w-auto hover:shadow-lg hover:scale-105 transition-all text-center"
         >
           Login
         </a>
         <a
-          href="https://ultimatestcktrader.online"
+          href="https://rounabroker.com"
           className="border-2 border-orange-500 text-white font-bold py-3 px-8 rounded-full w-full sm:w-auto hover:bg-orange-500/10 transition-all text-center"
         >
           Open Account

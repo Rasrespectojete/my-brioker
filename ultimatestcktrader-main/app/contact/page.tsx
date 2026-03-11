@@ -16,7 +16,7 @@ const Header = () => {
         <Link href="/" className="flex items-center">
           <img
             src="https://i.ibb.co/pBSBnW9y/Whats-App-Image-2025-10-10-at-8-45-37-AM-1-removebg-preview-1.png"
-            alt="UltimateStckTrader Logo"
+            alt="Rouna Broker Platform Logo"
             className="h-12 w-12 md:h-16 md:w-16 lg:h-20 lg:w-20 object-contain"
           />
         </Link>
@@ -74,7 +74,7 @@ const Header = () => {
             </li>
             <li className="w-full md:w-auto">
               <a
-                href="https://ultimatestcktrader.online"
+                href="https://rounabroker.com"
                 className="bg-gradient-to-r from-orange-500 to-yellow-500 text-white font-semibold py-2 px-6 rounded-full block text-center hover:shadow-lg transition-all"
               >
                 Get Started
@@ -91,7 +91,7 @@ const contactMethods = [
   {
     icon: "📧",
     title: "Email Us",
-    details: "support@ultimatestcktrader.online",
+    details: "support@rounabroker.com",
     description: "Send us an email anytime",
   },
   {
@@ -289,7 +289,7 @@ export default function ContactPage() {
             <h2 className="text-4xl font-bold text-white mb-4">Ready to Start Trading?</h2>
             <p className="text-white/90 text-lg mb-8">Open your account in minutes</p>
             <Button
-              onClick={() => (window.location.href = "https://ultimatestcktrader.online")}
+              onClick={() => (window.location.href = "https://rounabroker.com")}
               className="bg-white text-orange-500 hover:bg-gray-100 font-bold py-3 px-8 rounded-full text-lg"
             >
               Create Free Account
@@ -301,7 +301,7 @@ export default function ContactPage() {
       {/* Footer */}
       <footer className="bg-slate-950 text-gray-400 py-8 px-4">
         <div className="container mx-auto text-center">
-          <p>© 2025 UltimateStckTrader. All rights reserved.</p>
+          <p>© 2025 Rouna Broker Platform. All rights reserved.</p>
         </div>
       </footer>
     </div>
